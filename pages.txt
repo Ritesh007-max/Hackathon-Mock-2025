@@ -1,3 +1,5 @@
 https://www.figma.com/design/ugINuWgn9S6rZuBEKYcNVe/Untitled?node-id=73-2&t=8kHGQLQMwIYIhasw-1 -- Dashboard Page
 
 https://www.figma.com/design/ieesGywTDd6S66Zvc4viVz/Untitled?node-id=158-110&t=pKPisPKkFwXp8W7o-1 -- Upload section
+
+https://www.figma.com/design/ieesGywTDd6S66Zvc4viVz/Untitled?node-id=158-110&t=pKPisPKkFwXp8W7o-1 --  Channel Dashboard section
