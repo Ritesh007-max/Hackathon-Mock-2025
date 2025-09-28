@@ -3,6 +3,19 @@
     padding: 0;
     box-sizing: border-box;
 }
+/* body {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, 100px);
+      gap: 10px;
+      justify-content: center;
+      background: #f0f0f0;
+    }
+    img {
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      border-radius: 8px;
+    } */
 .container{
     display: flex;
     margin: auto;
