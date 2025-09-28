@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+    margin: auto;
+    width: 50vw;
+    height: 550px;
+    margin-top: 90px;
+    /* border: 1px solid red; */
+    /* border-radius: 50px; */
+    /* margin: auto; */
+    /* background-color: black; */
+
+}
+.left{
+    width: 50%;
+    height: 550px;
+    /* border: 1px solid red; */
+    /* border-left: 1px solid gray; */
+     /* border-radius: 50px; */
+}
+.right{
+    width: 50%;
+    height: 550px;
+    /* border: 1px solid red; */
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    /* margin-right: 10px; */
+}
+h1{
+    color: #FFDA25;
+    font-size: 25px;
+    margin-left: 60px;
+    align-items: center;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-family: Luckiest Guy;
+    
+}
+.form{
+    margin-top: 50px;
+    /* margin: auto; */
+}
+.inp{
+margin-left: px;
+padding: 10px ;
+margin-bottom: 20px;
+padding-right: 50px;
+border-bottom: 1px soild gray;
+border-style: none;
+background-color: black;
+color: rgb(255, 255, 255);
+margin-top: 10px;
+cursor: pointer;
+}
+
+.inp::placeholder{
+    color: #ffffff;
+}
+.inp:focus{
+    border: none;
+}
+.div{
+    border-bottom: 1px solid gray;
+    width: max-content;
+    /* height: 20px; */
+    display: flex;
+    /* align-content: center; */
+    margin-left: 60px;
+    cursor: pointer;
+}
+.div:hover{
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+ #submit{
+    /* border: 1px solid red; */
+    /* padding-right:px ; */
+    /* width: 70px; */
+    border-style: none;
+}  
+.btn-div{
+    margin-left: 60px;
+    margin-top: 20px;
+
+}
+.btn{
+    color: black;
+    font-size: 18px;
+    /* font-weight: bold; */
+    padding: 10px 30px;
+    background-color: #FFDA25;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Luckiest Guy;
+}
+.btn:active{
+    background-color: red;
+}
+
+#dob{
+    width: 235px;
+    /* border: 1px solid gray; */
+    /* color: ; */
+}
+
+#date{
+    /* margin-left:50px; */
+    color:#ffffff;
+}
+#date:hover{
+    color: white;
+}
+#hov{
+   color: rgb(255, 255, 255);
+}
+
+.img{
+    width: 99.7%;
+    height: 550px;
+}
+@media(max-width:1229px){
+    .container{
+        width: 100vw;
+    }
+    .img{
+        width: 99.9%;
+    }
+}
+#hov::placeholder{
+    color: gray;
+
+}
+#hov:hover{
+    color: white;
+}
+
